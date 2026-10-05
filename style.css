@@ -1,0 +1,40 @@
+body{
+    background-color: grey;
+    border: white solid 1px;
+    margin: 5px 10px 20px 10px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    color: green;
+}
+
+#clicked{
+    color: white;
+    font-style: unset;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px;
+}
